@@ -9,7 +9,7 @@ I've been coding since 2016, when I started learning C++. Since then, I've learn
 * 🌍  I'm based in St. John's, NL
 * 🖥️  See my portfolio at [my website](http://sanild.github.io/sanildhamija/)
 * ✉️  You can contact me at [sanildhamija@gmail.com](mailto:sanildhamija@gmail.com)
-* 🧠  I'm learning React!
+* 🧠  I'm currently learning React and Flutter!
 * ⚡  Fun fact: The only reason I get through each day is by drinking 2 double espressos and 2 cups of chai.
 
 ### Skills
