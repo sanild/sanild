@@ -4,7 +4,7 @@ Hi 👋 My name is Sanil Dhamija
 Software Developer
 ------------------
 
-I've been coding since 2016, when I started learning C++. Since then, I've learnt Web and Mobile Development, almost finished an undergraduate Computer Science degree, and worked 14 months as a Software Developer!
+I've been coding since 2016, when I started learning C++. Since then, I've learnt Web and Mobile Development, obtained an undergraduate Computer Science degree, and worked 14 months as a Software Developer!
 
 * 🌍  I'm based in St. John's, NL
 * 🖥️  See my portfolio at [my website](http://sanild.github.io/sanildhamija/)
