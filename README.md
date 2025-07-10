@@ -6,7 +6,6 @@ Software Developer
 
 I've been coding since 2016, when I started learning C++. Since then, I've learnt Web and Mobile Development, obtained an undergraduate Computer Science degree, and worked 14 months as a Software Developer!
 
-* 🌍  I'm based in St. John's, NL
 * 🖥️  See my portfolio at [my website](http://sanild.github.io/sanildhamija/)
 * ✉️  You can contact me at [sanildhamija@gmail.com](mailto:sanildhamija@gmail.com)
 * 🧠  I'm currently learning React and Flutter!
